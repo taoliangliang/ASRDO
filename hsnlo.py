@@ -10,8 +10,8 @@ __author__ = 'taoll'
 class HSNLO(object):
 
     def __init__(self,
-                 k_min = 9,
-                 k_maj = 2,
+                 k_min = 10,
+                 k_maj = 3,
                  max_weight_percentile=90,
                  p_norm=2,
                  verbose=False):
