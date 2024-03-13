@@ -7,7 +7,7 @@ from scipy.spatial import distance_matrix
 
 __author__ = 'taoll'
 
-class HSNLO(object):
+class ASRDO(object):
 
     def __init__(self,
                  k_min = 10,
